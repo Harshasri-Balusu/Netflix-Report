@@ -28,7 +28,8 @@ This Power BI project explores Netflix's viewership trends, ratings, and genre p
 
 ## 🖼 Preview
 
-C:\Users\HP\Documents\POWER BI WORK\Netflix Report BI
+![Netflix Output img](https://github.com/user-attachments/assets/0d6af137-80bc-4554-ad2a-baf3a0ad31c0)
+
 
 ## 📂 How to Use
 1. Download the `.pbix` file.
